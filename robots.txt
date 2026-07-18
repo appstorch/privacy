@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemap location (uncomment when you have one)
-# Sitemap: https://appstorch.github.io/privacy/sitemap.xml
+Sitemap: https://appstorch.github.io/privacy/sitemap.xml
